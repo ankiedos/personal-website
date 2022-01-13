@@ -26,6 +26,8 @@ projects:
     archived: false
     forks: true
     projects:
+    - Spolszczone-jezyki-programowania
+    - My-Small-Cloud
     # - repo-name
 
 social_media:
